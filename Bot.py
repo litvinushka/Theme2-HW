@@ -1,4 +1,4 @@
-from AddressBook import *
+from AddressBook import AddressBook, Name, Phone, Birthday, Email, Status, Note, Record
 from display import UserInterface
 
 
